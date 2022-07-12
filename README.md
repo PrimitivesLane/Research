@@ -8,4 +8,4 @@
 - [Falling in and Falling out: A Brief Study of the Shifts in Nick Szabo’s Attitude towards Ethereum](https://github.com/PrimitivesLane/Research/blob/main/Falling%20in%20and%20Falling%20out_%20A%20Brief%20Study%20of%20the%20Shifts%20in%20Nick%20Szabo%E2%80%99s%20Attitude%20towards%20Ethereum.md)
 
 ## Presentation
-- [难度炸弹简史](https://github.com/PrimitivesLane/Research/blob/main/%E9%9A%BE%E5%BA%A6%E7%82%B8%E5%BC%B9%E7%AE%80%E5%8F%B2.pdf)
+- [难度炸弹简史](https://github.com/PrimitivesLane/Research/blob/main/A%20Brief%20History%20of%20Difficulty%20Bomb.pdf)

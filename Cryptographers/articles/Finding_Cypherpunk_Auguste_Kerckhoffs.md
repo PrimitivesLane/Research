@@ -74,11 +74,13 @@ Fig. 1: Auguste Kerckhoffs（1835-1903），荷兰语言学家、密码学家
 ![结婚证书](https://github.com/PrimitivesLane/Research/blob/main/Cryptographers/pics/fig.2%20%E7%BB%93%E5%A9%9A%E8%AF%81%E4%B9%A6.jpg?raw=true)
 
 Fig. 2：巴黎档案馆藏柯克霍夫与特维宁的结婚证书
+
 图片来源：“[Kerkchoffs’ Legacy](https://eprint.iacr.org/2020/556.pdf)” written by Jean-Claude Caraco, Rémi Géraud-Stewart, and David Naccache.
 
 ![宝琳出生证明](https://github.com/PrimitivesLane/Research/blob/main/Cryptographers/pics/fig.3%20%E5%AE%9D%E7%90%B3%E7%9A%84%E5%87%BA%E7%94%9F%E8%AF%81%E6%98%8E.jpg?raw=true)
 
 Fig. 3：默伦档案馆藏 1865 年 5 月 13 日宝琳的出生证明
+
 图片来源：“Kerkchoffs’ Legacy”.
 
 家庭并没有影响柯克霍夫的事业与追求，在默伦的十年，他兼收并蓄，将智识追求与教育事业相结合。一方面，他持续学习现代和古代语言、数学、历史和考古学的新知识；另一方面，他对教育事业的热诚与奉献精神也彻底地释放，他相信通过教育可以帮助法国人民完成启蒙，走向现代与科学。因为在当时的法国，教育长期被天主教会把持，而教会则是反现代、反理性的蒙昧化身。1867 年，省议会批准柯克霍夫每年冬季在默伦开设免费的英语课程。此外，他还是默伦“鼓励教育协会”的主要创始人之一，并以勤奋而又无私的精神为该协会的“秘书-图书馆员”一职鞠躬尽瘁。[[5](#ref-5)]
@@ -92,11 +94,13 @@ Fig. 3：默伦档案馆藏 1865 年 5 月 13 日宝琳的出生证明
 ![简历](https://github.com/PrimitivesLane/Research/blob/main/Cryptographers/pics/fig.4%20%E6%8B%89%E4%B8%81%E6%96%87%E7%AE%80%E5%8E%86.jpg?raw=true)
 
 Fig. 4：1876 年柯克霍夫的拉丁文简历
+
 图片来源：“Kerkchoffs‘ Legacy”.
 
 ![博士](https://github.com/PrimitivesLane/Research/blob/main/Cryptographers/pics/fig.5%20%E5%8D%9A%E5%A3%AB%E6%96%87%E5%87%AD.jpg?raw=true)
 
 Fig. 5：柯克霍夫的博士文凭
+
 图片来源：“Kerkchoffs‘ Legacy”.
 
 
@@ -107,6 +111,7 @@ Fig. 5：柯克霍夫的博士文凭
 ![柯克霍夫居住在巴黎克劳德·贝尔纳街](https://github.com/PrimitivesLane/Research/blob/main/Cryptographers/pics/fig.6%20%E5%B7%B4%E9%BB%8E%E5%85%8B%E5%8A%B3%E5%BE%B7%C2%B7%E8%B4%9D%E5%B0%94%E7%BA%B3%E8%A1%97.jpg?raw=true)
 
 Fig. 6：柯克霍夫居住在巴黎克劳德·贝尔纳街（Rue Claude Bernard）62 号（左侧）
+
 图片来源：“Kerkchoffs‘ Legacy”.
 
 ### （四）跻身主流知识界：柯克霍夫的学术交游
@@ -127,6 +132,7 @@ Fig. 6：柯克霍夫居住在巴黎克劳德·贝尔纳街（Rue Claude Bernard
 ![智慧宫](https://github.com/PrimitivesLane/Research/blob/main/Cryptographers/pics/fig.7%20%E9%98%BF%E6%8B%89%E4%BC%AF%E6%99%BA%E6%85%A7%E5%AE%AB.png?raw=true)
 
 Fig. 7：阿拉伯智慧宫，中世纪的学术中心
+
 图片来源：https://mvslim.com/bayt-al-hikma-proves-us-that-islam-and-science-arent-and-were-never-contradictions/
 
 到了 18 世纪末，密码学最浪漫的文字解译成就是离不开考古学的。1799 年，在拿破仑的埃及远征军中随行 154 名法国学者邂逅了考古学史上最有名的罗塞塔石碑（Rosetta Stone），法国语言学家商博良破译了世界上最古老的密码之一——古埃及象形文字。商博良之后，考古学家趋之若鹜，苏美尔与巴比伦的楔形文字（Cuneiform）、印度的婆罗米文（Brahmi）相继得到破译，而人们对密码学的兴趣也日益增加。[[2](#ref-2)]譬如，第一位将数学引入密码学以破译多表替代密码的查尔斯·巴贝奇对考古学感到兴趣，而后文将提到的同样破解了多表替代密码的弗里德希·卡西斯基在研究密码学后则转向了考古学研究。[[1](#ref-1)]
@@ -135,6 +141,7 @@ Fig. 7：阿拉伯智慧宫，中世纪的学术中心
 ![商博良破译象形文字的笔记](https://github.com/PrimitivesLane/Research/blob/main/Cryptographers/pics/fig.8%20%E8%B1%A1%E5%BD%A2%E6%96%87%E5%AD%97.jpg?raw=true)
 
 Fig. 8：商博良破译象形文字的笔记
+
 图片来源：https://www.facsimiles.com/facsimiles/champollions-notebook
 
 
@@ -223,6 +230,7 @@ Fig. 8：商博良破译象形文字的笔记
 ![军事密码学](https://github.com/PrimitivesLane/Research/blob/main/Cryptographers/pics/fig.9%20%E3%80%8A%E5%86%9B%E4%BA%8B%E5%AF%86%E7%A0%81%E5%AD%A6%E3%80%8B.png?raw=true)
 
 Fig. 9：1883年，柯克霍夫发表的《军事密码学》
+
 图片来源：https://archive.org/details/lacryptographie00kercgoog/page/n4/mode/2up
 
 《军事密码学》被称为有史以来最简洁的密码学著作，柯克霍夫凭一己之力将当时全部已知的密码学领域知识浓缩在这本只有64页的小书中。
@@ -272,7 +280,9 @@ Fig. 9：1883年，柯克霍夫发表的《军事密码学》
 ![1887年国际沃拉普克语学院](https://github.com/PrimitivesLane/Research/blob/main/Cryptographers/pics/fig.10%201887%E5%B9%B4%E5%9B%BD%E9%99%85%E6%B2%83%E6%8B%89%E6%99%AE%E5%85%8B%E8%AF%AD%E5%AD%A6%E9%99%A2.jpg?raw=true)
 
 Fig. 10：1887 年国际沃拉普克语学院（The International Volapük Academy），施莱尔在图片中间，柯克霍夫的照片在施莱尔右边。
+
 图片来源：“Kerkchoffs‘ Legacy”.
+
 ### （三）悲歌：来自内部的撕裂
 然而，全盛也意味着衰落的开始，狂欢终有落幕，丧钟奏响悲歌。
 
@@ -320,6 +330,7 @@ Fig. 10：1887 年国际沃拉普克语学院（The International Volapük Acade
 ![image alt](https://github.com/PrimitivesLane/Research/blob/main/Cryptographers/pics/fig.11%20%E5%9F%8B%E8%91%AC%E8%AF%81%E6%98%8E.jpg?raw=true)
 
 Fig. 11：柯克霍夫的埋葬证明（编号 646）
+
 图片来源：“Kerkchoffs‘ Legacy”.
 
 ![柯克霍夫墓1](https://github.com/PrimitivesLane/Research/blob/main/Cryptographers/pics/fig.12%20%E6%9F%AF%E5%85%8B%E9%9C%8D%E5%A4%AB%E5%A2%931.jpg?raw=true)
@@ -328,6 +339,7 @@ Fig. 11：柯克霍夫的埋葬证明（编号 646）
 ![柯克霍夫墓2](https://github.com/PrimitivesLane/Research/blob/main/Cryptographers/pics/fig.13%20%E6%9F%AF%E5%85%8B%E9%9C%8D%E5%A4%AB%E5%A2%932.jpg?raw=true)
 
 Fig. 12&13：2020 年 5 月 12 日，雷米·格罗-斯图尔特与大卫·纳卡奇等代表国际密码学界对柯克霍夫墓进行重建
+
 图片来源：“Kerkchoffs‘ Legacy”.
 
 柯克霍夫是属于通才的一代。作为一个智识的追求者，在学科专业化刚形成的 19 世纪，他的求知欲促使其横跨科学与人文“两种文化”，其对知识与真理的向往是超越性的。同时，他对事物的洞悉一样具有超越时代的本能，他的人生一边在回应着时代的困境与需求，一边将自己的超越性理想寄托其中。

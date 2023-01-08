@@ -8,7 +8,7 @@
 - [Falling in and Falling out: A Brief Study of the Shifts in Nick Szabo’s Attitude towards Ethereum](https://github.com/PrimitivesLane/Research/blob/main/Falling%20in%20and%20Falling%20out_%20A%20Brief%20Study%20of%20the%20Shifts%20in%20Nick%20Szabo%E2%80%99s%20Attitude%20towards%20Ethereum.md)
 
 ### *Find Cypherpunk* Thematic Study
-- [Auguste Kerckhoffs](https://github.com/PrimitivesLane/Research/blob/main/Cryptographers/articles/Finding_Cypherpunk_Auguste_Kerckhoffs.md)
+- [奥古斯特·柯克霍夫传](https://github.com/PrimitivesLane/Research/blob/main/Cryptographers/articles/Finding_Cypherpunk_Auguste_Kerckhoffs.md)
 
 ## Presentation
 - [难度炸弹简史](https://github.com/PrimitivesLane/Research/blob/main/A%20Brief%20History%20of%20Difficulty%20Bomb.pdf)

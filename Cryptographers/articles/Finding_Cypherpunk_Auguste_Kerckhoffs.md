@@ -72,10 +72,12 @@ Fig. 1: Auguste Kerckhoffs（1835-1903），荷兰语言学家、密码学家
 刚进默伦的头三年，30 岁的柯克霍夫便幸运地组建了自己的家庭。他认识了一位名叫玛丽·埃米莉·特维宁的法国女子，两人于 1864 年 7 月 5 日在巴黎第十区结婚，他们的爱情结晶诞生在 1865 年 5 月 13 日，这个新生的女婴被称为宝琳。[[5](#ref-5)]
 
 ![结婚证书](https://github.com/PrimitivesLane/Research/blob/main/Cryptographers/pics/fig.2%20%E7%BB%93%E5%A9%9A%E8%AF%81%E4%B9%A6.jpg?raw=true)
+
 Fig. 2：巴黎档案馆藏柯克霍夫与特维宁的结婚证书
 图片来源：“[Kerkchoffs’ Legacy](https://eprint.iacr.org/2020/556.pdf)” written by Jean-Claude Caraco, Rémi Géraud-Stewart, and David Naccache.
 
 ![宝琳出生证明](https://github.com/PrimitivesLane/Research/blob/main/Cryptographers/pics/fig.3%20%E5%AE%9D%E7%90%B3%E7%9A%84%E5%87%BA%E7%94%9F%E8%AF%81%E6%98%8E.jpg?raw=true)
+
 Fig. 3：默伦档案馆藏 1865 年 5 月 13 日宝琳的出生证明
 图片来源：“Kerkchoffs’ Legacy”.
 
@@ -88,10 +90,12 @@ Fig. 3：默伦档案馆藏 1865 年 5 月 13 日宝琳的出生证明
 博士期间，柯克霍夫在欧洲大陆的政治社会地位与荣誉也显著提高。他因担任即将成为葡萄牙国王秘书的圣马梅德家族年轻伯爵罗德里戈·佩雷拉·费利西奥·德·圣马梅德的导师，而被授予葡萄牙基督勋章骑士等级。而 1876 年至 1880 年间，柯克霍夫又辅导该家族的另外两个孩子，相继被授予基督勋章与葡萄牙圣詹姆斯军事勋章的军官徽章。[[5](#ref-5)]
 
 ![简历](https://github.com/PrimitivesLane/Research/blob/main/Cryptographers/pics/fig.4%20%E6%8B%89%E4%B8%81%E6%96%87%E7%AE%80%E5%8E%86.jpg?raw=true)
+
 Fig. 4：1876 年柯克霍夫的拉丁文简历
 图片来源：“Kerkchoffs‘ Legacy”.
 
 ![博士](https://github.com/PrimitivesLane/Research/blob/main/Cryptographers/pics/fig.5%20%E5%8D%9A%E5%A3%AB%E6%96%87%E5%87%AD.jpg?raw=true)
+
 Fig. 5：柯克霍夫的博士文凭
 图片来源：“Kerkchoffs‘ Legacy”.
 
@@ -101,6 +105,7 @@ Fig. 5：柯克霍夫的博士文凭
 柯克霍夫并未停止脚步，他仍然想成为现代法国启蒙教育事业的担纲者，希望在一所师范学校中获得德语教席。然而，这一次他并没有得到眷顾，随后他也离开了阿拉贡学校。不过，好运最终还是来了。1883 年，当法兰西第三共和国总理茹费里推动“免费、义务、世俗”的国民教育以实现法国教育世俗化时，由于柯克霍夫长期为“鼓励教育协会”和默伦教育所做出的无私贡献，法国公共教育部为他颁发学术官员（Academic Officer）头衔。[[5](#ref-5)]
 
 ![柯克霍夫居住在巴黎克劳德·贝尔纳街](https://github.com/PrimitivesLane/Research/blob/main/Cryptographers/pics/fig.6%20%E5%B7%B4%E9%BB%8E%E5%85%8B%E5%8A%B3%E5%BE%B7%C2%B7%E8%B4%9D%E5%B0%94%E7%BA%B3%E8%A1%97.jpg?raw=true)
+
 Fig. 6：柯克霍夫居住在巴黎克劳德·贝尔纳街（Rue Claude Bernard）62 号（左侧）
 图片来源：“Kerkchoffs‘ Legacy”.
 
@@ -120,6 +125,7 @@ Fig. 6：柯克霍夫居住在巴黎克劳德·贝尔纳街（Rue Claude Bernard
 首先，作为学科概念的密码学（cryptology）包括密码编码学（cryptography）与密码分析学（cryptanalysis），古典时代的密码学是军事需要的产物，军事秘密信息的传递往往将一种普遍可读的“语言”加密成另一种通常无法理解的文字或符号，破译者只有掌握这一套加密规则/原理才能解读文本的真实内容，这是一种语言间的转化。譬如，凯撒大帝的《高卢战记》中提到使用希腊字母取代罗马字母，把信息转译成敌人看不懂的符号；中世纪时期，在阿拉伯帝国阿巴斯王朝的学术中心智慧宫（Bait al-Hikmah），许多阿拉伯学者为研究《古兰经》所载穆罕穆德的天启及其年代顺序，凭借其对语言学、数学、统计学与宗教学等学科的高度水平创造性地发明了破解单表密码的频率分析法。[[2](#ref-2)]
 
 ![智慧宫](https://github.com/PrimitivesLane/Research/blob/main/Cryptographers/pics/fig.7%20%E9%98%BF%E6%8B%89%E4%BC%AF%E6%99%BA%E6%85%A7%E5%AE%AB.png?raw=true)
+
 Fig. 7：阿拉伯智慧宫，中世纪的学术中心
 图片来源：https://mvslim.com/bayt-al-hikma-proves-us-that-islam-and-science-arent-and-were-never-contradictions/
 
@@ -127,6 +133,7 @@ Fig. 7：阿拉伯智慧宫，中世纪的学术中心
 
 
 ![商博良破译象形文字的笔记](https://github.com/PrimitivesLane/Research/blob/main/Cryptographers/pics/fig.8%20%E8%B1%A1%E5%BD%A2%E6%96%87%E5%AD%97.jpg?raw=true)
+
 Fig. 8：商博良破译象形文字的笔记
 图片来源：https://www.facsimiles.com/facsimiles/champollions-notebook
 
@@ -214,6 +221,7 @@ Fig. 8：商博良破译象形文字的笔记
 当然，柯克霍夫并未停止脚步，他还为后世密码分析学贡献了重叠法和位对称法两种密码分析法，尽管不及“卡西斯基分析”为这门学科带来的变革的颠覆性，但它们仍然在大部分现代破译中扮演着举足轻重的角色。[[1](#ref-1)]
 
 ![军事密码学](https://github.com/PrimitivesLane/Research/blob/main/Cryptographers/pics/fig.9%20%E3%80%8A%E5%86%9B%E4%BA%8B%E5%AF%86%E7%A0%81%E5%AD%A6%E3%80%8B.png?raw=true)
+
 Fig. 9：1883年，柯克霍夫发表的《军事密码学》
 图片来源：https://archive.org/details/lacryptographie00kercgoog/page/n4/mode/2up
 
@@ -262,6 +270,7 @@ Fig. 9：1883年，柯克霍夫发表的《军事密码学》
 短短数年，在柯克霍夫等人的领导下，沃拉普克语运动从德法蔓延到欧陆其他国家又渐次在全球遍地开花，从最初只有 150 名成员的社区发展成巅峰时期拥有 21 万爱好者的庞大组织。对柯克霍夫而言，真正的狂欢正是这种世界范围内对沃拉普克语的普遍认同。
 
 ![1887年国际沃拉普克语学院](https://github.com/PrimitivesLane/Research/blob/main/Cryptographers/pics/fig.10%201887%E5%B9%B4%E5%9B%BD%E9%99%85%E6%B2%83%E6%8B%89%E6%99%AE%E5%85%8B%E8%AF%AD%E5%AD%A6%E9%99%A2.jpg?raw=true)
+
 Fig. 10：1887 年国际沃拉普克语学院（The International Volapük Academy），施莱尔在图片中间，柯克霍夫的照片在施莱尔右边。
 图片来源：“Kerkchoffs‘ Legacy”.
 ### （三）悲歌：来自内部的撕裂
@@ -309,6 +318,7 @@ Fig. 10：1887 年国际沃拉普克语学院（The International Volapük Acade
 柯克霍夫被埋葬在巴黎南部具有永久特许权的蒙帕纳斯公墓（Cimetière du Montparnasse）中。2020 年 5 月 12 日，当雷米·格罗-斯图尔特与大卫·纳卡奇两人前去墓地回访时，发现这座古老的坟墓极为简陋，无人打理、无人献花，因此代表国际密码学界重新兴建了柯克霍夫墓。他们还正式提请法国当局注意柯克霍夫墓的历史意义与重要性，以避免其在未来被回收。[[5](#ref-5)]
 
 ![image alt](https://github.com/PrimitivesLane/Research/blob/main/Cryptographers/pics/fig.11%20%E5%9F%8B%E8%91%AC%E8%AF%81%E6%98%8E.jpg?raw=true)
+
 Fig. 11：柯克霍夫的埋葬证明（编号 646）
 图片来源：“Kerkchoffs‘ Legacy”.
 

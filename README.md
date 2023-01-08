@@ -10,3 +10,7 @@
 ## Presentation
 - [难度炸弹简史](https://github.com/PrimitivesLane/Research/blob/main/A%20Brief%20History%20of%20Difficulty%20Bomb.pdf)
 - [A Brief History of Difficulty Bomb](https://github.com/PrimitivesLane/Research/blob/main/A_Brief_History_of_Difficulty_Bomb_EN.pdf)
+
+
+## *Find Cypherpunk* Thematic Study
+- [Auguste Kerckhoffs](https://github.com/PrimitivesLane/Research/blob/main/Cryptographers/articles/Finding_Cypherpunk_Auguste_Kerckhoffs.md)
